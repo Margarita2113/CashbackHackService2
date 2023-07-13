@@ -53,5 +53,4 @@ public class CashbackHackServiceTest {
         org.junit.Assert.assertEquals(expected, actual);
     }
 
-
 }
