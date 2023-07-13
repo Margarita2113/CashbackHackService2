@@ -52,5 +52,4 @@ public class CashbackHackServiceTest {
 
         org.testng.Assert.assertEquals(actual, expected);
     }
-
 }
